@@ -17,7 +17,7 @@ In der Bundesrepublik Deutschland wurde schon mehrmals vorgeschlagen, kleinere B
 
 Damit man irgendwie auch "anfangen" kann, definieren wir noch diese Operation:
 
-* `Make-State(s, b)`: erstelle ein neues Bundesland mit dem Namen `b`, welches nur die eine Stadt s enthält.
+* `Make-State(s, b)`: erstelle ein neues Bundesland mit dem Namen `b`, welches nur die eine Stadt `s` enthält.
 
 Zum Aufbau der "echten" heutigen Bundesländer kann man dann die Operation `Union` entsprechend oft aufrufen.
 
