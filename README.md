@@ -28,7 +28,10 @@ Es ist möglich, eine Datenstruktur zu erstellen, die alle diese Operationen in 
 
 ## Prerequisites and execution
 
-_to be done_
+You will need PdfLaTeX, Biber and several LaTeX packages to compile.
+
+To compile to pdf, run `make` or `make pdf`. To remove the generated 
+files, run `make clean`.
 
 
 ## Repositories
